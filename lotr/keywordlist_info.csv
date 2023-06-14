@@ -1,0 +1,2 @@
+tar_corpus_path,ref_corpus_path,keyword_measure,effect_size_measure,keyness_measure_threshold,effect_size_measure_threshold,float_precision,show_negative_keywords,tar_type_count,tar_token_count,tar_file_count,ref_type_count,ref_token_count,ref_file_count,list_type
+C:/Users/hycin/AppData/Local/Programs/AntConc/app_resources/corpora/user/lotr.db,C:/Users/hycin/AppData/Local/Programs/AntConc/app_resources/corpora/user/wiki_corpus.db,Log-Likelihood (4-term),Dice,p<0.05 (3.84 with Bonferroni),All values,3,0,12558,481398,3,93467,5604343,1,type
